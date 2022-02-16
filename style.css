@@ -1,0 +1,92 @@
+body{
+	background-color:#e6e6e6; 
+}
+.wrapper{
+	background-color: white;
+	margin:auto;
+	width: 800px;
+	height: 400px;
+	position: absolute;
+	left: 50%;
+    top: 50%;
+    padding-left: 10px;
+    padding-top: 5px;
+    transform: translate(-50%,-50%);
+    border-radius: 2%;
+    box-shadow: 8px 10px 15px rgba(0,0,0,0.6);
+    padding: 1px;
+    border:1px  grey;
+    overflow: hidden;
+	
+}
+.top{
+background-color: #70db70;
+float: left;
+overflow: hidden;
+padding-left: 100px;
+padding-right: 104px;
+border-right: solid 1px #e0e0d1;
+
+}
+.los{
+background-color: #ff8566;
+display: block;
+float: left;
+padding-right: 144px;
+padding-left: 125px;
+
+
+}
+.top,.los{
+	font-family: calibri;
+	font-weight: bold;
+	font-size: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.top1{
+float: left;
+margin-top: 10px;
+overflow: hidden;
+padding-left: 18px;
+padding-right: 93px;
+border-right: solid 1px #e0e0d1;
+height: 100%;
+font-family: calibri;
+text-align: center;
+padding-left: 210px;
+
+}
+.los1{
+margin-top: 10px;
+display: block;
+float: left;
+padding-right: 50px;
+padding-left: 100px;
+}
+ul li{
+	display: inline;
+	padding-right: 15px;
+}
+.judul{
+	background-color: blue;
+}
+.topcoin li {
+	color:red;
+	display: inline;
+}
+.top1 div {
+	padding-bottom: 15px;
+	font-family: calibri;
+	font-size: 25px;
+	font-style: italic;
+	font-weight: bolder;
+}
+.los1 div {
+	padding-bottom: 15px;
+	font-family: calibri;
+	font-size: 25px;
+	font-style: italic;
+	font-weight: bolder;
+	text-align: center;
+}
